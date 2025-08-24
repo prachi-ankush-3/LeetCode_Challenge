@@ -1,7 +1,7 @@
 # 🚀 LeetCode Daily Challenge  
 
-I’m solving **LeetCode Daily Challenges** to sharpen my problem-solving and coding skills.  
-This repository contains my daily solutions with explanations.  
+This repository **LeetCode_Challenge** is my daily progress log of solving **LeetCode problems**.  
+Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨  
 
 ---
 
@@ -9,9 +9,7 @@ This repository contains my daily solutions with explanations.
 
 | Day | Problem | Solution |
 |-----|----------|-----------|
-| ✅ Day 1 | Problem Name | [Java](./Java/Day1_Solution.java) / [Python](./Python/Day1_Solution.py) |
-| ✅ Day 2 | Problem Name | [Java](./Java/Day2_Solution.java) / [Python](./Python/Day2_Solution.py) |
-| ✅ Day 3 | Problem Name | [Java](./Java/Day3_Solution.java) / [Python](./Python/Day3_Solution.py) |
+| ✅ Day 1 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL Solution](./584_FindCustomerReferee.sql) |
 
 ---
 
