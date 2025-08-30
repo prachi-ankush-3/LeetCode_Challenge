@@ -14,6 +14,8 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 3 | Database | [595. Big Countries](https://leetcode.com/problems/big-countries?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/main/595.%20Big%20Countries.sql) |
 | ✅ Day 4 | Database | [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/main/1050._Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times) |
 | ✅ Day 5 | Array | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent?envType=problem-list-v2&envId=array)| [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/main/1662_Check%20If%20Two%20String%20Arrays%20are%20Equivalent) |
+| ✅ Day 6 | Database | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number?envType=problem-list-v2&envId=database) | [SQL Solution](./584_FindCustomerReferee.sql) |
+
 
 
 
