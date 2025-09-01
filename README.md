@@ -16,6 +16,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 5 | Array | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent?envType=problem-list-v2&envId=array)| [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/main/1662_Check%20If%20Two%20String%20Arrays%20are%20Equivalent) |
 | ✅ Day 6 | Database | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/2c30b434115c46ff15acc41e449bdc0486303a97/619.%20Biggest%20Single%20Number) |
 | ✅ Day 7 | Array | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/258458ba8f3dcf1480fd8c56a7fa5ec8c2184211/2037_%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone) |
+| ✅ Day 8 | Database | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/cbd73d8283198e622865c97f387773fca5df24bd/1661_Average%20Time%20of%20Process%20per%20Machine) |
 
 
 
