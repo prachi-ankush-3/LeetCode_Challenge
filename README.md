@@ -19,7 +19,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 8 | Database | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/cbd73d8283198e622865c97f387773fca5df24bd/1661_Average%20Time%20of%20Process%20per%20Machine) |
 | ✅ Day 9 | Array | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences?envType=problem-list-v2&envId=array) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/c7d7f25d1099ad5067b7f049cccdab3675b806fb/2114_Maximum%20Number%20of%20Words%20Found%20in%20Sentences) |
 | ✅ Day 10 | Database | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/ef91a4bd340a2f967522d2f39f927b4e87aac81f/1581_Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) |
-
+| ✅ Day 11 | Database | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/e9575baa9c520e8e5e44ccacdf46c740ebebae5e/1075_Project%20Employees%20I) |
 
 
 ---
