@@ -1,0 +1,37 @@
+class Solution {
+    public int findClosest(int x, int y, int z) {
+        int count_y = 0;
+        int count_x = 0;
+
+        if (x < z) {
+            while (x != z) {
+                x++;
+                count_x++;
+            }
+        } else {
+            while (x != z) {
+                x--;
+                count_x++;
+            }
+        }
+        if (y < z) {
+            while (y != z) {
+                y++;
+                count_y++;
+            }
+        } else {
+            while (y != z) {
+                y--;
+                count_y++;
+            }
+        }
+        if (count_x < count_y) {
+            return 1;
+        } else if (count_x == count_y) {
+            return 0;
+        } else {
+            return 2;
+        }
+
+    }
+}
