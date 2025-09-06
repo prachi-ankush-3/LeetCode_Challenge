@@ -22,6 +22,8 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 11 | Database | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/e9575baa9c520e8e5e44ccacdf46c740ebebae5e/1075_Project%20Employees%20I) |
 | ✅ Day 12 | Array | [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6c7b70ff2966318e39405dc38e88552a76e6f9b4/3516_Find%20Closest%20Person) |
 | ✅ Day 13 | Database | [607. Sales Person](https://leetcode.com/problems/sales-person?envType=problem-list-v2&envId=database) | [SQL Solution]( https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/bd048e98135562010f578e461098bcb7142ce811/607_%20Sales%20Person) |
+| ✅ Day 14 | Database | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/d6786c247aeb2a0aa30eeb04e441044ed4ff1a4f/586_Customer%20Placing%20the%20Largest%20Number%20of%20Orders) |
+
 
 ---
 
