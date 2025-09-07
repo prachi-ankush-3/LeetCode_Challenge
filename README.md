@@ -23,6 +23,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 12 | Array | [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6c7b70ff2966318e39405dc38e88552a76e6f9b4/3516_Find%20Closest%20Person) |
 | ✅ Day 13 | Database | [607. Sales Person](https://leetcode.com/problems/sales-person?envType=problem-list-v2&envId=database) | [SQL Solution]( https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/bd048e98135562010f578e461098bcb7142ce811/607_%20Sales%20Person) |
 | ✅ Day 14 | Database | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/d6786c247aeb2a0aa30eeb04e441044ed4ff1a4f/586_Customer%20Placing%20the%20Largest%20Number%20of%20Orders) |
+| ✅ Day 15 | Array | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/9fdf371033d114748222633505bbf27a33f264ca/1480_Running%20Sum%20of%201d%20Array) |
 
 
 ---
