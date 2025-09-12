@@ -28,6 +28,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 17 | Database | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/4948f974b02abb67a048ef8677a5c2e967020729/596_Classes%20With%20at%20Least%205%20Students) |
 | ✅ Day 18 | Array | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/966a365b4bf3daa8c18e66e77766e9f3ccad00ff/1816_Truncate%20Sentence) |
 | ✅ Day 19 | Database | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/17ca2d5db90151babb3f701e0dadc655d9c7870b/1280_Students%20and%20Examinationsl) |
+| ✅ Day 20 | Array | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6e805d3dcf7333490f7d68b132d7596d464f7c57/1534_Count%20Good%20Triplets) |
 
 
 
