@@ -30,6 +30,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 19 | Database | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/17ca2d5db90151babb3f701e0dadc655d9c7870b/1280_Students%20and%20Examinationsl) |
 | ✅ Day 20 | Array | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6e805d3dcf7333490f7d68b132d7596d464f7c57/1534_Count%20Good%20Triplets) |
 | ✅ Day 21 | Database | [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/e3c38ab31ac557e79b72dd3ccbb2b29749cedd4f/1667_Fix%20Names%20in%20a%20Table) |
+| ✅ Day 22 | Database | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/40ab23337740f3db2a5e7b42eee21a7c41c1edd5/1633_Percentage%20of%20Users%20Attended%20a%20Contest) |
 
 
 
