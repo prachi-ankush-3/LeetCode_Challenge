@@ -1,0 +1,15 @@
+class Solution {
+    public int[] numberGame(int[] nums) {
+        Arrays.sort(nums); // sort the numbers
+        int n = nums.length;
+        int[] arr = new int[n];
+        
+        for (int i = 0; i < n; i += 2) {
+            // Alice takes nums[i], Bob takes nums[i+1]
+            arr[i] = nums[i+1];   // Bob appends first
+            arr[i+1] = nums[i];   // Alice appends second
+        }
+        
+        return arr;
+    }
+}
