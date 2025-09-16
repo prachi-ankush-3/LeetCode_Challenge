@@ -32,7 +32,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 21 | Database | [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/e3c38ab31ac557e79b72dd3ccbb2b29749cedd4f/1667_Fix%20Names%20in%20a%20Table) |
 | ✅ Day 22 | Database | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/40ab23337740f3db2a5e7b42eee21a7c41c1edd5/1633_Percentage%20of%20Users%20Attended%20a%20Contest) |
 | ✅ Day 23 | Array | [2974. Minimum Number Game]( https://leetcode.com/problems/minimum-number-game?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/9c1d14be92bf0b04a4a9d17041d19aba05f363fa/2974_Minimum%20Number%20Game) |
-| ✅ Day 24 | Database | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus?envType=problem-list-v2&envId=database) | [SQL Solution](./584_FindCustomerReferee.sql) |
+| ✅ Day 24 | Database | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/184acb4ea4c7db842475e95ce0c0f6a734c78c25/1873_Calculate%20Special%20Bonus) |
 
 
 
