@@ -33,12 +33,13 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 22 | Database | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/40ab23337740f3db2a5e7b42eee21a7c41c1edd5/1633_Percentage%20of%20Users%20Attended%20a%20Contest) |
 | ✅ Day 23 | Array | [2974. Minimum Number Game]( https://leetcode.com/problems/minimum-number-game?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/9c1d14be92bf0b04a4a9d17041d19aba05f363fa/2974_Minimum%20Number%20Game) |
 | ✅ Day 24 | Database | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/184acb4ea4c7db842475e95ce0c0f6a734c78c25/1873_Calculate%20Special%20Bonus) |
+| ✅ Day 25 | Array | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/2aed71970a808017db306de1ab85b8b0e476ab58/1773_Count%20Items%20Matching%20a%20Rul) |
 
 
 
 
 
-
+e
 ---
 
 ## 📂 Repository Structure  
