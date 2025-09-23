@@ -37,7 +37,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 26 | Array | [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/22659371f06419d97c8bbde95365cfbc1fe24345/1720_Decode%20XORed%20Array) |
 | ✅ Day 27 | Database | [3570. Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/3293409f32ef8b8236a3c222a54ad059f30c70d4/3570_Find%20Books%20with%20No%20Available%20Copies) |
 | ✅ Day 28 | Database | [2418. Sort the People](https://leetcode.com/problems/sort-the-people?envType=problem-list-v2&envId=array) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/29dbf09202881421117781bf410deceabe77bbb2/2418_Sort%20the%20People) 
-
+| ✅ Day 29 | Database | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f5f193135f8a7eda248a5622b595f1b146130924/3436_Find%20Valid%20Emails) |
 
 
 
