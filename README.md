@@ -40,7 +40,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 29 | Database | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f5f193135f8a7eda248a5622b595f1b146130924/3436_Find%20Valid%20Emails) |
 | ✅ Day 30 | Database | [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/decda0b500a2cd53211bf3e3c5c0bc9f736b670f/1527_Patients%20With%20a%20Condition) |
 | ✅ Day 31 | Database | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f5df948eefaf81cebc92572c6da413c8a09624dc/1731_The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee) |
-
+| ✅ Day 32 | Database | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/25ac529e42aa9319860a120a66804e7f8a0b9b94/197_Rising%20Temperature) |
 
 ## 📂 Repository Structure  
 
