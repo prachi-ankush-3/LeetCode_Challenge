@@ -42,6 +42,9 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 31 | Database | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f5df948eefaf81cebc92572c6da413c8a09624dc/1731_The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee) |
 | ✅ Day 32 | Database | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/25ac529e42aa9319860a120a66804e7f8a0b9b94/197_Rising%20Temperature) |
 | ✅ Day 33 | Database | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/2b44b47525fc4c9d869cfe4d7ad1112b79f3b393/1211_Queries%20Quality%20and%20Percentage) |
+| ✅ Day 34 | Database | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f7b5c2dbaf0344d3456a70782d19751271156898/1141_User%20Activity%20for%20the%20Past%2030%20Days%20I) |
+
+
 
 ## 📂 Repository Structure  
 
