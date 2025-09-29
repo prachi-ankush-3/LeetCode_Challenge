@@ -43,7 +43,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 32 | Database | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/25ac529e42aa9319860a120a66804e7f8a0b9b94/197_Rising%20Temperature) |
 | ✅ Day 33 | Database | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/2b44b47525fc4c9d869cfe4d7ad1112b79f3b393/1211_Queries%20Quality%20and%20Percentage) |
 | ✅ Day 34 | Database | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f7b5c2dbaf0344d3456a70782d19751271156898/1141_User%20Activity%20for%20the%20Past%2030%20Days%20I) |
-
+| ✅ Day 35 | Database | [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/063a7b38f4d66409ae206b90d84ee9f498ba2189/1978_Employees%20Whose%20Manager%20Left%20the%20Company) |
 
 
 ## 📂 Repository Structure  
