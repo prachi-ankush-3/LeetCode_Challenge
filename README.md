@@ -1,4 +1,4 @@
-# 🚀 LeetCode Daily Challenge  
+# 🚀 LeetCode Daily Challenges 
 
 This repository **LeetCode_Challenge** is my daily progress log of solving **LeetCode problems**.  
 Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨  
