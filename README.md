@@ -48,6 +48,8 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 37 | Database | [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/a3889be97aecd5bf32f0bb87851144168e08f8dd/1517_Find%20Users%20With%20Valid%20E-Mails) |
 | ✅ Day 38 | Database | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/742fac50f48746be271418bd414b418432b8e78b/1251_Average%20Selling%20Price) |
 | ✅ Day 39 | Database | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/248e2166f9aca4b3a96e76c7a6f35aa13d71aef1/3465_Find%20Products%20with%20Valid%20Serial%20Numbers) |
+| ✅ Day 40 | Array | [3668. Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order?envType=problem-list-v2&envId=array) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/04b2e1d16738230cdbaff6f71750a6672d8f036c/3668_Restore%20Finishing%20Order) |
+
 
 ## 📂 Repository Structure  
 
