@@ -50,7 +50,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 39 | Database | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/248e2166f9aca4b3a96e76c7a6f35aa13d71aef1/3465_Find%20Products%20with%20Valid%20Serial%20Numbers) |
 | ✅ Day 40 | Array | [3668. Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/04b2e1d16738230cdbaff6f71750a6672d8f036c/3668_Restore%20Finishing%20Order) |
 | ✅ Day 41 | Array | [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/52a1862f5ead56db76f51b8689639feb6ed211af/3285_Find%20Indices%20of%20Stable%20Mountains) |
-| ✅ Day 42 | Array | [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements?envType=problem-list-v2&envId=array) | [JAVA Solution](./584_FindCustomerReferee.sql) |
+| ✅ Day 42 | Array | [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/a3eebebffc413b2d915695adba62e6bcf99a0a4f/3194_Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements) |
 
 
 
