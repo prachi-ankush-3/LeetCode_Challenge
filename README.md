@@ -56,7 +56,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 45 | Array | [3427. Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/7c36d06d49fc3f34e2b3e3842d36121fb7473ca2/3427_Sum%20of%20Variable%20Length%20Subarrays) |
 | ✅ Day 46 | Array | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/101dd4262c389b1ce64a84a668799da98a49ff7d/3701_Compute%20Alternating%20Sum) |
 | ✅ Day 47 | Stack | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word?envType=problem-list-v2&envId=stack)| [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/b78be430fb08a7f86612d593cd2d1309f00ebc3d/2000_Reverse%20Prefix%20of%20Word) |
-
+| ✅ Day 48 | Database | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6660b310c48ac964f8088225a2095f0b4b95499b/626_Exchange%20Seats) |
 
 
 ## 📂 Repository Structure  
