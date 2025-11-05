@@ -1,0 +1,18 @@
+import java.util.Arrays;
+
+class Solution {
+    public int minimumSum(int num) {
+        // Step 1: Convert number to array of digits
+        char[] digits = String.valueOf(num).toCharArray();
+        
+        // Step 2: Sort digits
+        Arrays.sort(digits);
+        
+        // Step 3: Create two new numbers using alternate digits
+        int new1 = (digits[0] - '0') * 10 + (digits[2] - '0');
+        int new2 = (digits[1] - '0') * 10 + (digits[3] - '0');
+        
+        // Step 4: Return the sum
+        return new1 + new2;
+    }
+}
