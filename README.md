@@ -57,6 +57,8 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 46 | Array | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum?envType=problem-list-v2&envId=array) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/101dd4262c389b1ce64a84a668799da98a49ff7d/3701_Compute%20Alternating%20Sum) |
 | ✅ Day 47 | Stack | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word?envType=problem-list-v2&envId=stack)| [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/b78be430fb08a7f86612d593cd2d1309f00ebc3d/2000_Reverse%20Prefix%20of%20Word) |
 | ✅ Day 48 | Database | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6660b310c48ac964f8088225a2095f0b4b95499b/626_Exchange%20Seats) |
+| ✅ Day 49 | Sorting | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits?envType=problem-list-v2&envId=sorting) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/9ba450e8a8ad87666a916f5e868bdeac87c14067/2160_Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits) |
+
 
 
 ## 📂 Repository Structure  
