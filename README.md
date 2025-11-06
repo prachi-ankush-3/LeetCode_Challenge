@@ -58,7 +58,7 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 47 | Stack | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word?envType=problem-list-v2&envId=stack)| [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/b78be430fb08a7f86612d593cd2d1309f00ebc3d/2000_Reverse%20Prefix%20of%20Word) |
 | ✅ Day 48 | Database | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/6660b310c48ac964f8088225a2095f0b4b95499b/626_Exchange%20Seats) |
 | ✅ Day 49 | Sorting | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits?envType=problem-list-v2&envId=sorting) | [JAVA Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/9ba450e8a8ad87666a916f5e868bdeac87c14067/2160_Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits) |
-
+| ✅ Day 50 | Database | [3220. Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/a980f83ad12712a43b259423ca240edba0502a04/3220_Odd%20and%20Even%20Transactions) |
 
 
 ## 📂 Repository Structure  
