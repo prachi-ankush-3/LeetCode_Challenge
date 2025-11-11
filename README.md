@@ -63,5 +63,5 @@ Maintained by **[@prachi-ankush-3](https://github.com/prachi-ankush-3)** ✨
 | ✅ Day 51 | Database | [178. Rank Scores](https://leetcode.com/problems/rank-scores?envType=problem-list-v2&envId=database) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/588f3a74832db83e402b9f2548af1b4670c491b8/178_Rank%20Scores) |
 | ✅ Day 52 | Sorting | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence?envType=problem-list-v2&envId=sorting) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/ed4edca82240c2d495dff51b43975170950d39ad/1859_Sorting%20the%20Sentence) |
 | ✅ Day 53 | Sorting | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array?envType=problem-list-v2&envId=sorting) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/5e7bb51448c9399b26ecd1dc75f5758447865282/1464_Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) |
-
+| ✅ Day 54 | Sorting | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs?envType=problem-list-v2&envId=sorting) | [SQL Solution](https://github.com/prachi-ankush-3/LeetCode_Challenge/blob/f42ba47ee43571af82b3b0acfa1df73a6a631ec1/1913_Maximum%20Product%20Difference%20Between%20Two%20Pairs) |
 
