@@ -1,0 +1,30 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+        List<Integer> missing = new ArrayList<>();
+
+        // find min and max
+        int min = nums[0];
+        int max = nums[0];
+        for (int num : nums) {
+            if (num < min) min = num;
+            if (num > max) max = num;
+        }
+
+        // create a set for fast lookup
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+
+        // check for missing numbers
+        for (int i = min; i <= max; i++) {
+            if (!set.contains(i)) {
+                missing.add(i);
+            }
+        }
+
+        return missing;
+    }
+}
