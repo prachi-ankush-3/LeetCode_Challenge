@@ -1,0 +1,24 @@
+class Solution {
+    public int[] sortByBits(int[] arr) {
+
+        // Convert int[] → Integer[]
+        Integer[] nums = new Integer[arr.length];
+        for (int i = 0; i < arr.length; i++) nums[i] = arr[i];
+
+        // Sort using custom comparator
+        java.util.Arrays.sort(nums, (a, b) -> {
+            int bitA = Integer.bitCount(a);
+            int bitB = Integer.bitCount(b);
+
+            if (bitA == bitB)
+                return a - b;      // If same bits → sort normally
+
+            return bitA - bitB;     // Else sort by bit count
+        });
+
+        // Convert back to int[]
+        for (int i = 0; i < arr.length; i++) arr[i] = nums[i];
+
+        return arr;
+    }
+}
